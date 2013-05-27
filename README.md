@@ -12,8 +12,7 @@ Create a config/settings.yml
 
 In your code
 
-> GLOBAL[:something]
-> - value
+> variable = GLOBAL[:something]
 
 ## Operation
 
