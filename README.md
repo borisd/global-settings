@@ -13,7 +13,7 @@ Create a config/settings.yml
 In your code
 
 > GLOBAL[:something]
-> > value
+> - value
 
 ## Operation
 
