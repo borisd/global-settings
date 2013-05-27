@@ -1,0 +1,14 @@
+common: &common
+  something: true
+
+production:
+  <<: *common
+  something: false
+
+development:
+  <<: *common
+  something: false
+
+test:
+  <<: *common
+  something: false
